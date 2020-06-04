@@ -1,0 +1,3 @@
+# Flask with SQLAlchemy project
+
+test project playing with flask and deployed automatically on herouku
